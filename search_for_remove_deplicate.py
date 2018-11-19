@@ -4,7 +4,7 @@ import time
 import numpy as np
 import pdb
 import sys
-#sys.path.insert(0,'/workspace/mnt/group/alg-retri/guoqi/workspace/delf/faiss/python')
+
 import faiss
 import random
 
