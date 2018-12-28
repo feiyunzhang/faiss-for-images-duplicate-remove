@@ -63,8 +63,8 @@ def stop_or_on(list,base):
     final_result.append(similar_idx)
     stop_or_on(left_list,left_base)
   else:
-    print(final_result)
-    return final_result
+    #print(final_result)
+  return final_result
 
 
 
